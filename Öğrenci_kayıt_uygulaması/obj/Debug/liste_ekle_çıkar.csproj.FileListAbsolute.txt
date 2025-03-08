@@ -1,0 +1,10 @@
+C:\Users\nazar\Desktop\proje\liste_ekle_çıkar\bin\Debug\liste_ekle_çıkar.exe.config
+C:\Users\nazar\Desktop\proje\liste_ekle_çıkar\bin\Debug\liste_ekle_çıkar.exe
+C:\Users\nazar\Desktop\proje\liste_ekle_çıkar\bin\Debug\liste_ekle_çıkar.pdb
+C:\Users\nazar\Desktop\proje\liste_ekle_çıkar\obj\Debug\liste_ekle_çıkar.csproj.AssemblyReference.cache
+C:\Users\nazar\Desktop\proje\liste_ekle_çıkar\obj\Debug\liste_ekle_çıkar.Form1.resources
+C:\Users\nazar\Desktop\proje\liste_ekle_çıkar\obj\Debug\liste_ekle_çıkar.Properties.Resources.resources
+C:\Users\nazar\Desktop\proje\liste_ekle_çıkar\obj\Debug\liste_ekle_çıkar.csproj.GenerateResource.cache
+C:\Users\nazar\Desktop\proje\liste_ekle_çıkar\obj\Debug\liste_ekle_çıkar.csproj.CoreCompileInputs.cache
+C:\Users\nazar\Desktop\proje\liste_ekle_çıkar\obj\Debug\liste_ekle_çıkar.exe
+C:\Users\nazar\Desktop\proje\liste_ekle_çıkar\obj\Debug\liste_ekle_çıkar.pdb
